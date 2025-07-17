@@ -3,4 +3,5 @@
     echo "Product";
 
     echo "Haha";
+    echo "Haha";
 ?>
